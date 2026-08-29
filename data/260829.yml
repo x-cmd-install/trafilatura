@@ -1,0 +1,56 @@
+about:
+  description: Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+  license: Apache-2.0
+  homepage: https://trafilatura.readthedocs.io
+  head: 2e1d38b
+  archived: false
+  latestVersion: v2.2.0
+  collectedAt: 2026-08-29T06:26:20Z
+timeline:
+  created: 2019-04-08
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-31
+popularity:
+  star: 6723
+  watcher: 36
+  fork: 424
+  release: 41
+  contributor: 69
+  pullRequest: 105
+  issue: 448
+language:
+  Python: 899647
+totalLine: 899647
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 15
+    openPR: 5
+    closedIssue: 3
+    openIssue: 3
+    commit: 16
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 45
+    openPR: 5
+    closedIssue: 9
+    openIssue: 3
+    commit: 51
+  last180d:
+    since: 2026-03-02
+    release: 2
+    mergedPR: 48
+    openPR: 5
+    closedIssue: 25
+    openIssue: 4
+    commit: 51
+  last360d:
+    since: 2025-09-03
+    release: 2
+    mergedPR: 50
+    openPR: 6
+    closedIssue: 32
+    openIssue: 7
+    commit: 52
