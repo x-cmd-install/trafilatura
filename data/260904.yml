@@ -7,7 +7,7 @@ about:
   head: 2e1d38b
   archived: false
   latestVersion: v2.2.0
-  collectedAt: 2026-09-04T19:19:54Z
+  collectedAt: 2026-09-04T21:16:36Z
 timeline:
   created: 2019-04-08
   lastCommit: 2026-08-28
@@ -80,6 +80,79 @@ total:
   openIssue: 55
   commit: 1650
 ---
+path: /home/runner/.x-repo/github.com/adbar/trafilatura
+collectedAt: 2026-09-04T21:16:40Z
+loc:
+  Html:
+    code: 817421
+    comments: 24222
+    blanks: 174391
+    files: 1046
+  Json:
+    code: 21849
+    comments: 0
+    blanks: 0
+    files: 3
+  Python:
+    code: 16278
+    comments: 1699
+    blanks: 2729
+    files: 44
+  ReStructuredText:
+    code: 3517
+    comments: 0
+    blanks: 2278
+    files: 35
+  Xml:
+    code: 410
+    comments: 0
+    blanks: 10
+    files: 3
+  Toml:
+    code: 174
+    comments: 29
+    blanks: 14
+    files: 1
+  Jupyter:
+    code: 91
+    comments: 55
+    blanks: 38
+    files: 1
+  ForgeConfig:
+    code: 57
+    comments: 37
+    blanks: 53
+    files: 3
+  Batch:
+    code: 26
+    comments: 1
+    blanks: 8
+    files: 1
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 9
+    comments: 7
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 677
+    blanks: 249
+    files: 3
+  Text:
+    code: 0
+    comments: 15
+    blanks: 1
+    files: 4
+total:
+  code: 1204995
+  comments: 43374
+  blanks: 221033
+  files: 1146
 ---
 date: "2026-08-24"
 repo:
