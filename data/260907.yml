@@ -5,18 +5,18 @@ about:
   head: 2e1d38b
   archived: false
   latestVersion: "v2.2.0"
-  collectedAt: 2026-09-07T05:10:34Z
+  collectedAt: 2026-09-07T19:16:50Z
 timeline:
   created: 2019-04-08
   lastCommit: 2026-08-28
   lastRelease: 2026-07-31
 popularity:
-  star: 6776
+  star: 6783
   watcher: 36
   fork: 428
   release: 41
   contributor: 69
-  pullRequest: 445
+  pullRequest: 446
   issue: 449
 language:
   Python: 899647
@@ -26,7 +26,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 11
-    openPR: 6
+    openPR: 7
     closedIssue: 2
     openIssue: 4
     commit: 12
@@ -34,7 +34,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 21
-    openPR: 6
+    openPR: 7
     closedIssue: 7
     openIssue: 4
     commit: 22
@@ -42,7 +42,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 36
-    openPR: 6
+    openPR: 7
     closedIssue: 8
     openIssue: 4
     commit: 36
@@ -50,7 +50,7 @@ recent:
     since: 2026-03-11
     release: 2
     mergedPR: 48
-    openPR: 6
+    openPR: 7
     closedIssue: 24
     openIssue: 5
     commit: 51
@@ -58,7 +58,7 @@ recent:
     since: 2025-09-12
     release: 2
     mergedPR: 50
-    openPR: 7
+    openPR: 8
     closedIssue: 32
     openIssue: 8
     commit: 51
@@ -66,20 +66,20 @@ recent:
     since: 2024-09-17
     release: 3
     mergedPR: 98
-    openPR: 8
+    openPR: 9
     closedIssue: 70
     openIssue: 17
     commit: 98
 total:
   release: 41
   mergedPR: 338
-  openPR: 8
+  openPR: 9
   closedIssue: 394
   openIssue: 55
   commit: 1650
 ---
 path: /home/runner/.x-repo/github.com/adbar/trafilatura
-collectedAt: 2026-09-07T05:10:46Z
+collectedAt: 2026-09-07T19:17:00Z
 loc:
   Html:
     code: 817421
@@ -248,7 +248,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:10:51+00:00
+  collectedAt: 2026-09-07T19:17:03+00:00
   platform:
     darwin/arm64:
       name:  null
