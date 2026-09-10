@@ -1,0 +1,7 @@
+- repo: homebrew
+  srcname: trafilatura
+  visiblename: trafilatura
+  version: 2.2.0
+  origversion: null
+  status: unique
+  summary: Discovery, extraction and processing for Web text
