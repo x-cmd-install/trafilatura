@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.0"
   latestRelease: "v2.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:41:11Z
+  collectedAt: 2026-09-10T23:09:32Z
 timeline:
   created: 2019-04-08
   lastCommit: 2026-08-28
@@ -83,7 +83,7 @@ total:
   commit: 1650
 ---
 path: /home/runner/.x-repo/github.com/adbar/trafilatura
-collectedAt: 2026-09-10T20:41:24Z
+collectedAt: 2026-09-10T23:09:43Z
 loc:
   Html:
     code: 817421
