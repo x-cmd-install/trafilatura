@@ -26,7 +26,7 @@ Total: **859,954** lines of code across **1132** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,810 · **Forks**: 430 · **Open issues**: 449 · **Contributors**: 71
+- **Stars**: 6,819 · **Forks**: 430 · **Open issues**: 449 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 10 | 5 | 3 | 2 | 11 |
-| last60d | 2026-07-16 | 1 | 24 | 5 | 7 | 2 | 24 |
-| 90d | 2026-06-16 | 1 | 38 | 5 | 10 | 2 | 33 |
-| last180d | 2026-03-18 | 2 | 52 | 5 | 23 | 3 | 55 |
-| 360d | 2025-09-19 | 2 | 54 | 6 | 34 | 6 | 55 |
-| last720d | 2024-09-24 | 3 | 102 | 7 | 71 | 15 | 102 |
+| 30d | 2026-08-16 | 0 | 10 | 5 | 3 | 2 | 11 |
+| last60d | 2026-07-17 | 1 | 24 | 5 | 7 | 2 | 24 |
+| 90d | 2026-06-17 | 1 | 36 | 5 | 10 | 2 | 33 |
+| last180d | 2026-03-19 | 2 | 52 | 5 | 23 | 3 | 55 |
+| 360d | 2025-09-20 | 2 | 54 | 6 | 34 | 6 | 55 |
+| last720d | 2024-09-25 | 3 | 102 | 7 | 70 | 15 | 102 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:37:33Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:39:40Z._
