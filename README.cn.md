@@ -4,7 +4,7 @@
 
 Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
-![trafilatura](https://repo.x-cmd.io/trafilatura.svg?lang=zh)
+[![x-cmd/install — trafilatura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/trafilatura.svg?lang=zh)](https://x-cmd.com/install/trafilatura)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install trafilatura
 
 ## 流行度
 
-- **Star**: 6,832 · **Fork**: 431 · **开放 issue**: 449 · **贡献者**: 71
+- **Star**: 6,840 · **Fork**: 431 · **开放 issue**: 449 · **贡献者**: 71
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install trafilatura
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 9 | 6 | 3 | 1 | 11 |
-| last60d | 2026-07-20 | 1 | 22 | 6 | 7 | 2 | 24 |
-| 90d | 2026-06-20 | 1 | 34 | 6 | 10 | 2 | 33 |
-| last180d | 2026-03-22 | 2 | 52 | 6 | 22 | 3 | 55 |
-| 360d | 2025-09-23 | 2 | 53 | 7 | 34 | 6 | 55 |
-| last720d | 2024-09-28 | 3 | 102 | 8 | 69 | 15 | 102 |
+| 30d | 2026-08-21 | 0 | 8 | 6 | 3 | 1 | 11 |
+| last60d | 2026-07-22 | 1 | 22 | 6 | 5 | 2 | 24 |
+| 90d | 2026-06-22 | 1 | 33 | 6 | 10 | 2 | 33 |
+| last180d | 2026-03-24 | 2 | 52 | 6 | 22 | 3 | 55 |
+| 360d | 2025-09-25 | 2 | 53 | 7 | 34 | 6 | 55 |
+| last720d | 2024-09-30 | 3 | 102 | 8 | 69 | 15 | 102 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ trafilatura 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:28:48Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:29:46Z._

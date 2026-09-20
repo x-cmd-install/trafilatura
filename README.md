@@ -4,7 +4,7 @@
 
 Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
-![trafilatura](https://repo.x-cmd.io/trafilatura.svg)
+[![x-cmd/install — trafilatura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/trafilatura.svg)](https://x-cmd.com/install/trafilatura)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,832 · **Forks**: 431 · **Open issues**: 449 · **Contributors**: 71
+- **Stars**: 6,840 · **Forks**: 431 · **Open issues**: 449 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 9 | 6 | 3 | 1 | 11 |
-| last60d | 2026-07-20 | 1 | 22 | 6 | 7 | 2 | 24 |
-| 90d | 2026-06-20 | 1 | 34 | 6 | 10 | 2 | 33 |
-| last180d | 2026-03-22 | 2 | 52 | 6 | 22 | 3 | 55 |
-| 360d | 2025-09-23 | 2 | 53 | 7 | 34 | 6 | 55 |
-| last720d | 2024-09-28 | 3 | 102 | 8 | 69 | 15 | 102 |
+| 30d | 2026-08-21 | 0 | 8 | 6 | 3 | 1 | 11 |
+| last60d | 2026-07-22 | 1 | 22 | 6 | 5 | 2 | 24 |
+| 90d | 2026-06-22 | 1 | 33 | 6 | 10 | 2 | 33 |
+| last180d | 2026-03-24 | 2 | 52 | 6 | 22 | 3 | 55 |
+| 360d | 2025-09-25 | 2 | 53 | 7 | 34 | 6 | 55 |
+| last720d | 2024-09-30 | 3 | 102 | 8 | 69 | 15 | 102 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:28:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:29:46Z._
