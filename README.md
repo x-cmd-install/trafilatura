@@ -4,7 +4,7 @@
 
 Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
-[![x-cmd/install — trafilatura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/trafilatura.svg)](https://x-cmd.com/install/trafilatura)
+[![x-cmd/install — trafilatura Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/trafilatura.svg)](https://x-cmd.com/install/trafilatura)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,846 · **Forks**: 434 · **Open issues**: 449 · **Contributors**: 73
+- **Stars**: 6,850 · **Forks**: 435 · **Open issues**: 449 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 344 · **Open PRs**: 10 · **Closed issues**: 398 · **Open issues**: 51 · **Commits**: 1656
+- **Releases**: 41 · **Merged PRs**: 344 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 51 · **Commits**: 1656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 10 | 8 | 2 | 1 | 10 |
-| last60d | 2026-07-24 | 1 | 24 | 8 | 5 | 2 | 24 |
-| 90d | 2026-06-24 | 1 | 34 | 8 | 10 | 2 | 33 |
-| last180d | 2026-03-26 | 2 | 54 | 8 | 22 | 2 | 57 |
-| 360d | 2025-09-27 | 2 | 55 | 9 | 34 | 5 | 57 |
-| last720d | 2024-10-02 | 3 | 101 | 10 | 68 | 14 | 104 |
+| 30d | 2026-08-24 | 0 | 10 | 9 | 2 | 1 | 10 |
+| last60d | 2026-07-25 | 1 | 23 | 9 | 5 | 2 | 24 |
+| 90d | 2026-06-25 | 1 | 34 | 9 | 10 | 2 | 33 |
+| last180d | 2026-03-27 | 2 | 54 | 9 | 22 | 2 | 57 |
+| 360d | 2025-09-28 | 2 | 55 | 10 | 34 | 5 | 57 |
+| last720d | 2024-10-03 | 3 | 101 | 11 | 68 | 14 | 102 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:42:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:43:50Z._
