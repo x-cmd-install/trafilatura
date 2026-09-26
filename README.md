@@ -14,14 +14,14 @@ x install trafilatura
 
 ## Code insight
 
-Total: **860,122** lines of code across **1132** files in the top 5 languages.
+Total: **860,791** lines of code across **1132** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 817,422 | 24,222 | 174,391 | 1047 |
 | Json | 21,849 | 0 | 0 | 3 |
-| Python | 16,555 | 1,718 | 2,762 | 44 |
-| ReStructuredText | 3,518 | 0 | 2,279 | 35 |
+| Python | 17,219 | 1,747 | 2,891 | 44 |
+| ReStructuredText | 3,521 | 0 | 2,279 | 35 |
 | Xml | 410 | 0 | 10 | 3 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.0` (2026-07-31)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 6,863 · **Forks**: 438 · **Open issues**: 449 · **Contributors**: 73
+- **Stars**: 6,869 · **Forks**: 440 · **Open issues**: 449 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 344 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 51 · **Commits**: 1656
+- **Releases**: 41 · **Merged PRs**: 350 · **Open PRs**: 6 · **Closed issues**: 399 · **Open issues**: 50 · **Commits**: 1662
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 8 | 9 | 1 | 1 | 10 |
-| last60d | 2026-07-27 | 1 | 22 | 9 | 5 | 2 | 24 |
-| 90d | 2026-06-27 | 1 | 32 | 9 | 10 | 2 | 33 |
-| last180d | 2026-03-29 | 2 | 54 | 9 | 22 | 2 | 57 |
-| 360d | 2025-09-30 | 2 | 55 | 10 | 34 | 5 | 57 |
-| last720d | 2024-10-05 | 3 | 100 | 11 | 68 | 14 | 100 |
+| 30d | 2026-08-27 | 0 | 14 | 4 | 1 | 1 | 16 |
+| last60d | 2026-07-28 | 1 | 27 | 4 | 6 | 1 | 30 |
+| 90d | 2026-06-28 | 1 | 38 | 4 | 11 | 1 | 39 |
+| last180d | 2026-03-30 | 2 | 60 | 4 | 22 | 1 | 63 |
+| 360d | 2025-10-01 | 2 | 61 | 5 | 35 | 4 | 63 |
+| last720d | 2024-10-06 | 3 | 106 | 6 | 69 | 13 | 106 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:30:16Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:27:54Z._
