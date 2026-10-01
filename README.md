@@ -14,13 +14,13 @@ x install trafilatura
 
 ## Code insight
 
-Total: **860,791** lines of code across **1132** files in the top 5 languages.
+Total: **860,634** lines of code across **1132** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 817,422 | 24,222 | 174,391 | 1047 |
 | Json | 21,849 | 0 | 0 | 3 |
-| Python | 17,219 | 1,747 | 2,891 | 44 |
+| Python | 17,065 | 1,598 | 2,856 | 44 |
 | ReStructuredText | 3,521 | 0 | 2,279 | 35 |
 | Xml | 410 | 0 | 10 | 3 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.0` (2026-07-31)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 6,892 · **Forks**: 446 · **Open issues**: 449 · **Contributors**: 75
+- **Stars**: 6,895 · **Forks**: 447 · **Open issues**: 449 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 350 · **Open PRs**: 11 · **Closed issues**: 399 · **Open issues**: 50 · **Commits**: 1662
+- **Releases**: 41 · **Merged PRs**: 354 · **Open PRs**: 10 · **Closed issues**: 399 · **Open issues**: 50 · **Commits**: 1666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 9 | 9 | 0 | 0 | 12 |
-| last60d | 2026-08-01 | 0 | 25 | 9 | 5 | 1 | 27 |
-| 90d | 2026-07-02 | 1 | 36 | 9 | 11 | 1 | 36 |
-| last180d | 2026-04-03 | 2 | 60 | 9 | 20 | 1 | 63 |
-| 360d | 2025-10-05 | 2 | 61 | 10 | 35 | 4 | 63 |
-| last720d | 2024-10-10 | 3 | 100 | 11 | 67 | 13 | 102 |
+| 30d | 2026-09-01 | 0 | 13 | 8 | 0 | 0 | 16 |
+| last60d | 2026-08-02 | 0 | 29 | 8 | 5 | 1 | 31 |
+| 90d | 2026-07-03 | 1 | 40 | 8 | 11 | 1 | 40 |
+| last180d | 2026-04-04 | 2 | 64 | 8 | 20 | 1 | 67 |
+| 360d | 2025-10-06 | 2 | 65 | 9 | 35 | 4 | 67 |
+| last720d | 2024-10-11 | 3 | 104 | 10 | 67 | 13 | 104 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:04:06Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:22:23Z._
