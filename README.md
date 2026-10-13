@@ -30,8 +30,8 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,959 · **Forks**: 458 · **Open issues**: 458 · **Contributors**: 78
+- **Stars**: 6,964 · **Forks**: 458 · **Open issues**: 458 · **Contributors**: 78
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 18 | 17 | 2 | 7 | 20 |
-| last60d | 2026-08-13 | 2 | 32 | 18 | 6 | 8 | 31 |
-| 90d | 2026-07-14 | 3 | 44 | 18 | 10 | 8 | 44 |
-| last180d | 2026-04-15 | 4 | 72 | 18 | 21 | 8 | 75 |
-| 360d | 2025-10-17 | 4 | 73 | 18 | 37 | 11 | 75 |
-| last720d | 2024-10-22 | 5 | 108 | 18 | 66 | 19 | 110 |
+| 30d | 2026-09-13 | 2 | 18 | 16 | 2 | 7 | 20 |
+| last60d | 2026-08-14 | 2 | 31 | 18 | 6 | 8 | 31 |
+| 90d | 2026-07-15 | 3 | 44 | 18 | 10 | 8 | 44 |
+| last180d | 2026-04-16 | 4 | 71 | 18 | 21 | 8 | 75 |
+| 360d | 2025-10-18 | 4 | 73 | 18 | 37 | 11 | 75 |
+| last720d | 2024-10-23 | 5 | 107 | 18 | 65 | 19 | 109 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:30:19Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:24:25Z._
