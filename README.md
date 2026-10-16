@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,969 · **Forks**: 460 · **Open issues**: 461 · **Contributors**: 78
+- **Stars**: 6,973 · **Forks**: 459 · **Open issues**: 461 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 362 · **Open PRs**: 24 · **Closed issues**: 401 · **Open issues**: 60 · **Commits**: 1674
+- **Releases**: 43 · **Merged PRs**: 362 · **Open PRs**: 25 · **Closed issues**: 401 · **Open issues**: 60 · **Commits**: 1674
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 17 | 22 | 2 | 10 | 20 |
-| last60d | 2026-08-16 | 2 | 30 | 24 | 6 | 11 | 31 |
-| 90d | 2026-07-17 | 3 | 44 | 24 | 10 | 11 | 44 |
-| last180d | 2026-04-18 | 4 | 71 | 24 | 21 | 11 | 75 |
-| 360d | 2025-10-20 | 4 | 73 | 24 | 37 | 14 | 75 |
-| last720d | 2024-10-25 | 5 | 106 | 24 | 65 | 22 | 107 |
+| 30d | 2026-09-16 | 2 | 17 | 23 | 2 | 10 | 20 |
+| last60d | 2026-08-17 | 2 | 29 | 25 | 6 | 11 | 31 |
+| 90d | 2026-07-18 | 3 | 43 | 25 | 10 | 11 | 44 |
+| last180d | 2026-04-19 | 4 | 71 | 25 | 21 | 11 | 75 |
+| 360d | 2025-10-21 | 4 | 73 | 25 | 37 | 14 | 75 |
+| last720d | 2024-10-26 | 5 | 106 | 25 | 65 | 22 | 107 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:27:38Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:58:20Z._
