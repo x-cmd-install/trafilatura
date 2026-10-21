@@ -30,8 +30,8 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,994 · **Forks**: 459 · **Open issues**: 465 · **Contributors**: 78
+- **Stars**: 7,000 · **Forks**: 461 · **Open issues**: 465 · **Contributors**: 78
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 17 | 27 | 2 | 14 | 18 |
-| last60d | 2026-08-21 | 2 | 28 | 28 | 5 | 15 | 28 |
-| 90d | 2026-07-22 | 3 | 42 | 28 | 8 | 15 | 44 |
-| last180d | 2026-04-23 | 4 | 71 | 28 | 21 | 15 | 75 |
-| 360d | 2025-10-25 | 4 | 73 | 28 | 37 | 18 | 75 |
-| last720d | 2024-10-30 | 5 | 105 | 28 | 63 | 26 | 107 |
+| 30d | 2026-09-21 | 2 | 17 | 27 | 2 | 14 | 18 |
+| last60d | 2026-08-22 | 2 | 28 | 28 | 4 | 15 | 28 |
+| 90d | 2026-07-23 | 3 | 42 | 28 | 8 | 15 | 44 |
+| last180d | 2026-04-24 | 4 | 71 | 28 | 21 | 15 | 75 |
+| 360d | 2025-10-26 | 4 | 73 | 28 | 37 | 18 | 75 |
+| last720d | 2024-10-31 | 5 | 104 | 28 | 63 | 26 | 107 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for trafilatura lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:23:23Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:11:57Z._
