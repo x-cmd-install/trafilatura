@@ -1,0 +1,160 @@
+about:
+  description: "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML"
+  license: Apache-2.0
+  homepage: https://trafilatura.readthedocs.io
+  head: e617268
+  archived: false
+  latestVersion: "v2.3.1"
+  latestRelease: "v2.3.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-23T09:28:18Z
+timeline:
+  created: 2019-04-08
+  lastCommit: 2026-11-22
+  lastVersion: 2026-10-06
+  lastRelease: 2026-10-06
+  lastPrerelease: 
+popularity:
+  star: 7162
+  watcher: 33
+  fork: 517
+  release: 43
+  contributor: 119
+  pullRequest: 617
+  issue: 533
+language:
+  Python: 1266379
+totalBytes: 1266379
+recent:
+  last30d:
+    since: 2026-10-24
+    release: 0
+    mergedPR: 86
+    openPR: 13
+    closedIssue: 56
+    openIssue: 12
+    commit: 81
+  last60d:
+    since: 2026-09-24
+    release: 2
+    mergedPR: 127
+    openPR: 16
+    closedIssue: 69
+    openIssue: 15
+    commit: 127
+  last90d:
+    since: 2026-08-25
+    release: 2
+    mergedPR: 141
+    openPR: 16
+    closedIssue: 71
+    openIssue: 15
+    commit: 139
+  last180d:
+    since: 2026-05-27
+    release: 4
+    mergedPR: 184
+    openPR: 16
+    closedIssue: 84
+    openIssue: 15
+    commit: 190
+  last360d:
+    since: 2025-11-28
+    release: 4
+    mergedPR: 188
+    openPR: 16
+    closedIssue: 104
+    openIssue: 17
+    commit: 190
+  last720d:
+    since: 2024-12-03
+    release: 5
+    mergedPR: 207
+    openPR: 16
+    closedIssue: 127
+    openIssue: 20
+    commit: 209
+total:
+  release: 43
+  mergedPR: 477
+  openPR: 16
+  closedIssue: 488
+  openIssue: 45
+  commit: 1789
+---
+path: /home/runner/.x-repo/github.com/adbar/trafilatura
+collectedAt: 2026-11-23T09:28:27Z
+loc:
+  Html:
+    code: 818244
+    comments: 24249
+    blanks: 174478
+    files: 1050
+  Python:
+    code: 22503
+    comments: 1946
+    blanks: 3615
+    files: 47
+  Json:
+    code: 21858
+    comments: 0
+    blanks: 0
+    files: 4
+  ReStructuredText:
+    code: 3580
+    comments: 0
+    blanks: 2310
+    files: 35
+  Xml:
+    code: 410
+    comments: 0
+    blanks: 10
+    files: 3
+  Toml:
+    code: 176
+    comments: 30
+    blanks: 14
+    files: 1
+  Jupyter:
+    code: 91
+    comments: 55
+    blanks: 38
+    files: 1
+  ForgeConfig:
+    code: 54
+    comments: 39
+    blanks: 50
+    files: 3
+  Batch:
+    code: 26
+    comments: 1
+    blanks: 8
+    files: 1
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 9
+    comments: 7
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 744
+    blanks: 283
+    files: 4
+  Text:
+    code: 0
+    comments: 15
+    blanks: 1
+    files: 4
+total:
+  code: 1212368
+  comments: 43727
+  blanks: 222070
+  files: 1155
+---
+
+---
