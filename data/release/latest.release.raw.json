@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/adbar/trafilatura/releases/405062859",
-  "assets_url": "https://api.github.com/repos/adbar/trafilatura/releases/405062859/assets",
-  "upload_url": "https://uploads.github.com/repos/adbar/trafilatura/releases/405062859/assets{?name,label}",
-  "html_url": "https://github.com/adbar/trafilatura/releases/tag/v2.3.1",
-  "id": 405062859,
+  "url": "https://api.github.com/repos/adbar/trafilatura/releases/455741247",
+  "assets_url": "https://api.github.com/repos/adbar/trafilatura/releases/455741247/assets",
+  "upload_url": "https://uploads.github.com/repos/adbar/trafilatura/releases/455741247/assets{?name,label}",
+  "html_url": "https://github.com/adbar/trafilatura/releases/tag/v2.4.0",
+  "id": 455741247,
   "author": {
     "login": "adbar",
     "id": 2125866,
@@ -25,21 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOCryo6M4YJMTL",
-  "tag_name": "v2.3.1",
+  "node_id": "RE_kwDOCryo6M4bKg8_",
+  "tag_name": "v2.4.0",
   "target_commitish": "master",
-  "name": "trafilatura-2.3.1",
+  "name": "trafilatura-2.4.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-06T19:31:14Z",
-  "updated_at": "2026-10-06T19:31:30Z",
-  "published_at": "2026-10-06T19:31:30Z",
+  "created_at": "2026-11-23T17:53:25Z",
+  "updated_at": "2026-11-23T17:53:37Z",
+  "published_at": "2026-11-23T17:53:37Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/adbar/trafilatura/tarball/v2.3.1",
-  "zipball_url": "https://api.github.com/repos/adbar/trafilatura/zipball/v2.3.1",
-  "body": "- Fewer duplicated segments in the output and a new test series by @adbar (#955)\r\n- Do not repeat image paragraphs or the text after inline code by @MohammadHijjawi97 (#946, #952)\r\n- Keep brackets inside inline code in link text unescaped by @Sriram-PR (#954)",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/adbar/trafilatura/tarball/v2.4.0",
+  "zipball_url": "https://api.github.com/repos/adbar/trafilatura/zipball/v2.4.0",
+  "body": "Highlights:\r\n- Built-in fallback derived from jusText: no stopword lists, keeps links, formatting and images, jusText dependency dropped, revised fallback cascade, by @adbar (#1064)\r\n- Faster extraction by @adbar, @GoldArowana and @deadstrobe5 (#1001, #1093, #1127)\r\n- `extract()` no longer crashes when run in concurrent threads, by @prometheus-maker (#1092)\r\n- More precise metadata with a quality gate, new fields (language, article image, more tag and category sources) and the same fields in every output format, by @adbar, @SajjadPSavoji, @felipehertzer, @SudiptoKumar, @jjohnnystwsss and @ayoushbirjani4-spec (#1080, #1091, #1129, #1135, #1178, #1185)\r\n\r\nBreaking changes:\r\n- jusText: `try_justext()` takes `options` instead of `target_language`, `settings.JUSTEXT_LANGUAGES`, `external.jt_stoplist_init()` and `external.get_stoplist()` removed (#1064)\r\n- Internals removed: `utils.HTML_PARSER` and `xml.CONTROL_PARSER` (use `get_html_parser()`), `utils.LINES_TRIMMING`, `utils.safe_base_url()` (use `courlan.get_base_url()`), `JT_STOPLIST`, `compare_extraction()` takes one tree (#1001, #1092, #1188)\r\n- Trees from `load_html()` use a single element class, without tag-specific lxml.html classes such as `FormElement` (#1001)\r\n- With tables turned off, all tables are now removed, many were left in before, pages laid out with tables can return much less text (#1001)\r\n- Output: no `raw_text` in JSON, image source in `graphic/@url` in TEI, XML keeps only the attributes Trafilatura sets (#1115, #1135, #1162)\r\n- CLI and API: `--feed` and `--sitemap` without `--list` only process the discovered URLs, malformed config files exit with code 2, `ValueError` for unknown output formats, the `url` argument also applies when `options` are passed, `cli_utils.examine()` takes `url` and `options` as keyword-only arguments, `settings.args_to_extractor()` no longer accepts `url` (#1070, #1122)\r\n- `sitemap_search()` and `find_feed_urls()` wait 5 s by default, as set in the config (#1063)\r\n\r\nNew features:\r\n- CLI: progress bar and output file names derived from URLs by @ShayanMuhammad-CS and @JackyHsu-X (#976, #1007)\r\n- Cookies read from a Netscape cookie file by @DheerajPiduru52 (#1156)\r\n- Images found in lazy-loading attributes, srcset, `<picture>` and `<noscript>` by @ayoushbirjani4-spec (#1169, #1179)\r\n- Markdown: language hints on code blocks by @scks1 (#1083)\r\n- Sitemaps parsed from caller-provided text by @IlyaKhalafi (#983)\r\n\r\nFixes:\r\n- Better text extraction: recall mode, language filter, infinite scroll, links, images in links, quotations, lists, templates, dialogs, permalink anchors, prefixed tags, misnested markup, Discourse pages, special characters and duplicates by @epistemedeus, @moneebullah25, @RavSinghChandan, @L4XB, @hasandenizuk, @bfs2021, @MankhongGarden, @scks1, @lee3Q, @gezerui888, @felipehertzer, @hamids-ai-automations, @SudiptoKumar, @ahmadkhancodes, @sarankumar1325, @jadhavgaurav, @mccalpink, @audi0417, @asadsehto and @jjohnnystwsss (#962, #969, #972, #996, #997, #998, #1012, #1014, #1025, #1072, #1073, #1074, #1075, #1086, #1088, #1094, #1113, #1134, #1148, #1149, #1164, #1170)\r\n- Better comment extraction by @MohammadHijjawi97, @audi0417 and @cvl01 (#973, #974, #1139)\r\n- Better output formats: lists, definition lists, tables, code blocks, blockquotes, LaTeX, HTML structure and TEI by @raashish1601, @RavSinghChandan, @zhaoruizhe81, @ybai08, @L4XB, @IlyaKhalafi, @r0h1tb, @jayhemnani9910, @mayankdhingra02, @emirmrkaljevic and @rishi02102017 (#959, #975, #978, #984, #987, #995, #1006, #1008, #1069, #1106, #1115, #1128)\r\n- Better metadata: authors, publishers, headlines, site names, JSON-LD contexts and escapes by @raashish1601, @cvl01, @Enesuygurs, @emirmrkaljevic, @Shriraj1901 and @felipehertzer (#949, #960, #999, #1035, #1040, #1130, #1132, #1138, #1168)\r\n- More robust CLI: exit codes, input checks, local batches, output files, blacklists, logging and discovery by @adbar, @IlyaKhalafi, @GoldArowana, @devYRPauli, @jackiectl2, @cycsmail, @Shriraj1901, @edsonsims, @bfs2021 and @Primeteumm (#991, #992, #993, #1003, #1005, #1026, #1038, #1043, #1060, #1070, #1079, #1122, #1152)\r\n- More robust and politer crawling: robots.txt and crawl delay, status codes, redirects, meta refresh, fragments, crawl boundary and resumed crawls by @Shriraj1901, @GoldArowana, @hasandenizuk, @mayankdhingra02, @SudiptoKumar, @Primeteumm and @AnvitDevadiga (#1041, #1042, #1046, #1089, #1102, #1105, #1107, #1110, #1131, #1151, #1157, #1177)\r\n- More robust sitemaps: detection, namespaces, size limits, robots.txt, hreflang links, wait time and fewer guessed requests by @IlyaKhalafi, @r0h1tb, @jadhavgaurav, @wolfgang-aura, @Shriraj1901, @mayuriphad, @flynn-eye, @sarankumar1325, @emirmrkaljevic, @GoldArowana, @SudiptoKumar and @anubhavlal07 (#981, #982, #1004, #1015, #1036, #1039, #1048, #1063, #1076, #1090, #1109, #1125, #1147)\r\n- More robust feeds: detection, RDF feeds, Atom links and character references by @RavSinghChandan, @cycsmail, @emirmrkaljevic, @GoldArowana, @jackiectl2 and @Primeteumm (#1002, #1013, #1037, #1044, #1085, #1114, #1181)\r\n- More robust downloads: redirects, retries, pooled connections, chunked answers and certificate errors by @ColumbusLabs, @sinnercode228, @GoldArowana and @costajohnt (#1027, #1071, #1084, #1176)\r\n\r\nMaintenance:\r\n- Dependencies updated, courlan 1.5.0 required, by @adbar (#1188)\r\n- Typing and settings cleanup by @IlyaKhalafi and @Primeteumm (#1000, #1153)\r\n- Contributing guidelines updated by @adbar (#1116)",
+  "reactions": {
+    "url": "https://api.github.com/repos/adbar/trafilatura/releases/455741247/reactions",
+    "total_count": 2,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "mentions_count": 55
 }
