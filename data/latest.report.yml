@@ -2,88 +2,88 @@ about:
   description: "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML"
   license: Apache-2.0
   homepage: https://trafilatura.readthedocs.io
-  head: 195a969
+  head: f2345ea
   archived: false
   latestVersion: "v2.4.0"
   latestRelease: "v2.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:59:57Z
+  collectedAt: 2026-11-28T08:34:35Z
 timeline:
   created: 2019-04-08
-  lastCommit: 2026-11-23
+  lastCommit: 2026-11-27
   lastVersion: 2026-11-23
   lastRelease: 2026-11-23
   lastPrerelease: 
 popularity:
-  star: 7185
+  star: 7245
   watcher: 32
-  fork: 521
+  fork: 524
   release: 44
-  contributor: 119
-  pullRequest: 623
+  contributor: 121
+  pullRequest: 625
   issue: 534
 language:
-  Python: 1277885
-totalBytes: 1277885
+  Python: 1292755
+totalBytes: 1292755
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 66
-    openPR: 16
-    closedIssue: 37
-    openIssue: 13
-    commit: 84
+    mergedPR: 70
+    openPR: 12
+    closedIssue: 34
+    openIssue: 10
+    commit: 89
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 3
-    mergedPR: 126
-    openPR: 18
-    closedIssue: 69
-    openIssue: 16
-    commit: 130
+    mergedPR: 131
+    openPR: 15
+    closedIssue: 72
+    openIssue: 13
+    commit: 135
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
-    mergedPR: 139
-    openPR: 19
-    closedIssue: 70
-    openIssue: 16
-    commit: 142
+    mergedPR: 144
+    openPR: 16
+    closedIssue: 73
+    openIssue: 13
+    commit: 147
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
-    mergedPR: 187
-    openPR: 19
-    closedIssue: 82
-    openIssue: 16
-    commit: 193
+    mergedPR: 192
+    openPR: 16
+    closedIssue: 85
+    openIssue: 13
+    commit: 198
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 5
-    mergedPR: 191
-    openPR: 19
-    closedIssue: 104
-    openIssue: 18
-    commit: 193
+    mergedPR: 196
+    openPR: 16
+    closedIssue: 107
+    openIssue: 15
+    commit: 198
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 5
-    mergedPR: 207
-    openPR: 19
-    closedIssue: 127
-    openIssue: 21
-    commit: 208
+    mergedPR: 212
+    openPR: 16
+    closedIssue: 130
+    openIssue: 18
+    commit: 213
 total:
   release: 44
-  mergedPR: 480
-  openPR: 19
-  closedIssue: 488
-  openIssue: 46
-  commit: 1792
+  mergedPR: 485
+  openPR: 16
+  closedIssue: 491
+  openIssue: 43
+  commit: 1797
 ---
 path: /home/runner/.x-repo/github.com/adbar/trafilatura
-collectedAt: 2026-11-27T09:00:08Z
+collectedAt: 2026-11-28T08:34:46Z
 loc:
   Html:
     code: 818244
@@ -91,9 +91,9 @@ loc:
     blanks: 174478
     files: 1050
   Python:
-    code: 22680
-    comments: 1968
-    blanks: 3638
+    code: 22980
+    comments: 1975
+    blanks: 3673
     files: 47
   Json:
     code: 21858
@@ -101,9 +101,9 @@ loc:
     blanks: 0
     files: 4
   ReStructuredText:
-    code: 3580
+    code: 3739
     comments: 0
-    blanks: 2310
+    blanks: 2374
     files: 35
   Xml:
     code: 410
@@ -142,8 +142,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 767
-    blanks: 287
+    comments: 758
+    blanks: 281
     files: 4
   Text:
     code: 0
@@ -151,9 +151,9 @@ loc:
     blanks: 1
     files: 4
 total:
-  code: 1212545
-  comments: 43772
-  blanks: 222097
+  code: 1213004
+  comments: 43770
+  blanks: 222190
   files: 1155
 ---
 date: "2026-11-23"
